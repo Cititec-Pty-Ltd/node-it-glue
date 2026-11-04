@@ -20,6 +20,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - One moderate advisory remains in `brace-expansion`, bundled inside the `npm` package (a transitive dependency of `semantic-release`). It is not reachable at runtime and cannot be resolved without a forced, potentially breaking `semantic-release` change.
 
+## [1.2.3](https://github.com/WYRE-AI/node-it-glue/compare/v1.2.2...v1.2.3) (2026-11-04)
+
+
+### Bug Fixes
+
+* **dependabot:** ungroup msw/vitest majors from auto-merged dev-dependencies ([#89](https://github.com/WYRE-AI/node-it-glue/issues/89)) ([bd6bcf2](https://github.com/WYRE-AI/node-it-glue/commit/bd6bcf295de38305e74d83eb622f362c9f591e88))
+* **release:** add changelogTitle config to prevent changelog header orphaning ([#88](https://github.com/WYRE-AI/node-it-glue/issues/88)) ([1173075](https://github.com/WYRE-AI/node-it-glue/commit/11730753ecc297bba98cad83a8b3cb4abc89b06a))
+
+
 ## [1.2.2](https://github.com/WYRE-AI/node-it-glue/compare/v1.2.1...v1.2.2) (2026-10-05)
 
 
