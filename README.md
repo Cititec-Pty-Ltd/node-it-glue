@@ -1,3 +1,6 @@
+> **Cititec fork** of [WYRE-AI/node-it-glue](https://github.com/WYRE-AI/node-it-glue). Before changing anything, read
+> [CITITEC-FORK.md](CITITEC-FORK.md): which changes go back to Wyre and which stay in this fork.
+
 # node-it-glue
 
 Comprehensive, fully-typed Node.js/TypeScript library for the IT Glue API.
